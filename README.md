@@ -63,7 +63,8 @@ I spend most of my time on the boundary between large models and real devices â€
 
 <div align="center">
   <a href="https://github.com/touchpilot/touchpilot">
-    <img src="https://github.com/user-attachments/assets/4099bf82-1504-4443-9b42-cc2d18e92b02" alt="TouchPilot â€” local-first Android AI agent runtime" width="780" />
+    <img width="1536" height="1024" alt="ChatGPT Image May 20, 2026, 07_43_18 PM" src="https://github.com/user-attachments/assets/3a793812-f03f-4a8c-9dba-2d8f172d1be7" />
+    <img width="1536" height="1024" alt="ChatGPT Image May 20, 2026, 07_37_00 PM" src="https://github.com/user-attachments/assets/b614223d-de7f-4648-bb0d-b7d6738c0216" />
   </a>
 </div>
 
