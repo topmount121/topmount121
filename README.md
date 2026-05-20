@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/topmount121">
-  <img src="https://github.com/topmount121.png" alt="World of Dots banner" />
+  <img src="https://github.com/topmount121.png" width="80" align="center"/>
 </a>
 
 <p>
